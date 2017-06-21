@@ -4,7 +4,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost/microservice
     username: root
-    password: iamdante
+    password: 1234,qwer
     initialSize: 5
     minIdle: 5
     maxActive: 20
